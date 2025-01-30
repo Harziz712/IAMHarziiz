@@ -1,13 +1,15 @@
 import Dark from "./ui/dark";
 import Light from "./ui/light";
 
-const theahmad = () => {
+const IAMHarziiz = () => {
   return (
     <>
       <Dark />
       <Light />
+    
+      
     </>
   );
 };
 
-export default theahmad;
+export default IAMHarziiz;

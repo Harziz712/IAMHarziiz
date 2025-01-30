@@ -1,12 +1,15 @@
 ---
-company: "Tech Talent Academy"
+company: "GameHub"
 role: "Software Developer"
-dateStart: "03/27/2023"
-dateEnd: "08/21/2023"
+dateStart: "10/27/2024"
+dateEnd: "PRESENT"
 ---
 
-Worked on the academy's registration platform and Learning Management System (LMS).
 
-- Integrated a fast, secure payment gateway into TTA’s platform, cutting processing time by 40%.
-- Improved registration processes with a user-friendly interface, boosting engagement and satisfaction.
-- Enhanced platform scalability and reliability through robust backend solutions.
+Designed, developed, and maintained the GameHub landing page, providing a seamless browsing experience for game collections.
+
+Created a responsive and visually engaging frontend interface for users to explore games effortlessly.
+Implemented interactive UI components to showcase game trailers, reviews, and key details.
+Integrated download links for quick access to games.
+Optimized performance and accessibility for a smooth user experience across devices.
+Collaborated with backend developers and designers to ensure a scalable and user-centric solution.

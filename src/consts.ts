@@ -2,10 +2,10 @@ import type { Site, Page, Links, Socials } from "@types";
 
 // Global
 export const SITE: Site = {
-  TITLE: "The Ahmad",
+  TITLE: "Harziiz",
   DESCRIPTION:
-    "Welcome to Rabiu Ahmad's, portfolio, this resource contains details you need to know about Ahmad as a Software Developer and Engineer.",
-  AUTHOR: "Rabiu Ahmad",
+    "Welcome to Akanbi AbdulAzeez's, portfolio, this resource contains details you need to know about Harziiz as a Software Developer and Engineer.",
+  AUTHOR: "Akanbi AbdulAzeez",
 };
 
 // Work Page
@@ -57,25 +57,25 @@ export const SOCIALS: Socials = [
   {
     NAME: "Email",
     ICON: "email",
-    TEXT: "mail@theahmad.me",
-    HREF: "mailto:mail@theahmad.me",
+    TEXT: "mail@akanbiazeez117.me",
+    HREF: "mailto:mail@akanbiazeez117.me",
   },
   {
     NAME: "Github",
     ICON: "github",
-    TEXT: "dd3vahmad",
-    HREF: "https://github.com/dd3vahmad",
+    TEXT: "Harziiz712",
+    HREF: "https://github.com/harziz712",
   },
   {
     NAME: "LinkedIn",
     ICON: "linkedin",
-    TEXT: "Ahmad Rabiu",
-    HREF: "https://www.linkedin.com/in/rabiuahmad/",
+    TEXT: "Akanbi AbdulAzeez",
+    HREF: "https://www.linkedin.com/in/akanbiazeez/",
   },
   {
     NAME: "Twitter",
     ICON: "twitter-x",
-    TEXT: "dd3vahmad",
-    HREF: "https://x.com/dd3vahmad",
+    TEXT: "HarziizDevps",
+    HREF: "https://x.com/harziizdevps",
   },
 ];

@@ -1,15 +1,15 @@
 ---
 title: "Gamehub"
 summary: "A valley of game discovery adventure. Discover what makes you happy and active."
-date: "October 15 2024"
+date: "December 15 2024"
 draft: false
 tags:
   - ReactJs
   - Typescript
   - ChakraUI
   - rawgAPI
-demoUrl: https://gamehub-ruddy-beta.vercel.app
-repoUrl: https://github.com/dd3vahmad/gamehub
+demoUrl: game-hub-drab-beta.vercel.app
+repoUrl: https://github.com/Harziz712/game-hub
 ---
 
 ![gameIt](../../../../public/gameIT.png)
